@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @gianfrancobtl
-- 👀 I’m interested in solidity and big data
+- 👋 Hi, I’m Gianfranco!
+- 👀 I’m interested in solidity and big data.
 - 🌱 I’m currently learning a bunch of things in university of Bs. As.
 - 💞️ I’m looking to collaborate on any crypto project.
 - 📫 How to reach me: gianfrancobtl@gmail.com
